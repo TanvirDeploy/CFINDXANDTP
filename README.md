@@ -13,7 +13,7 @@ apt update && apt upgrade -y && pkg install git -y && pkg install python -y && a
 ### 3.
 
 ```
-git clone https://github.com/FollowNaim/TokenPickle
+curl -sS https://bootstrap.pypa.io/get-pip.py | python
 ```
 
 If you get this error, you need to run the following command:
