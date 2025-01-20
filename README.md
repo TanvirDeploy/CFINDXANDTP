@@ -30,7 +30,7 @@ cd /sdcard/Tanvir
 ```
 Note: Make sure Save a folder named 'Tanvir' in your phone memory.
 
-### 3.
+### 5.
 
 ```
 git clone https://github.com/FollowNaim/TokenPickle
