@@ -72,7 +72,7 @@ cd TokenPickle
 ### 10.
 
 ```
-python3 GenerateTokenPickle.py
+python3 generate_drive_token.py
 ```
 
 ### 11. You'll find a url https://accounts.google.com/o/oauth2/=offline like this. just copy this url and paste on browser and login into your google account. that's it. you'll see 'The authentication flow has completed. You may close this window' this massage. then you're done.
