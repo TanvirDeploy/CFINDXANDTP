@@ -28,6 +28,7 @@ Note: If the storage command in Termux does not work, you can turn on the permis
 ```
 cd /sdcard/Tanvir
 ```
+Note: Make sure Save a folder named 'Tanvir' in your phone memory.
 
 ### 3.
 
