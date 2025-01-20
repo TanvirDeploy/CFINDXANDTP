@@ -35,7 +35,7 @@ Note: Make sure Save a folder named 'Tanvir' in your phone memory.
 ```
 git clone https://github.com/TanvirDeploy/CFINDXANDTP
 ```
-### 9.
+### 6.
 
 ```
 cd CFINDXANDTP
