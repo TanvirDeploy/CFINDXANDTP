@@ -8,6 +8,9 @@
 apt update && apt upgrade -y && pkg install git -y && pkg install python -y && apt update && pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib && pip install --upgrade pip
 
 ```
+2.1 ```ERROR: Installing pip is forbidden, this will break the python-pip package (termux)```If you get this error, you need to run the following command:
+```curl -sS https://bootstrap.pypa.io/get-pip.py | python```
+Now run command number 2 again. Hopefully no error will appear.
 
 ### 3.
 
