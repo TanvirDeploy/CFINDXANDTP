@@ -41,7 +41,8 @@ git clone https://github.com/TanvirDeploy/CFINDXANDTP
 cd CFINDXANDTP
 ```
 
-### 7. Now a folder named CFINDXANDTP has been automatically created inside the Tanvir folder. make sure Credentials.json file present in your phone memory /Tanvir/CFINDXANDTP folder, not in Sd card, if not then just move credentials.json file into the CFINDXANDTP folder . Not use sdcard
+### 7.
+Now a folder named CFINDXANDTP has been automatically created inside the Tanvir folder. make sure Credentials.json file present in your phone memory /Tanvir/CFINDXANDTP folder, not in Sd card, if not then just move credentials.json file into the CFINDXANDTP folder . Not use sdcard
 
 ### 8.
 
@@ -49,7 +50,8 @@ cd CFINDXANDTP
 python3 generate_drive_token.py
 ```
 
-### 9. You'll find a url https://accounts.google.com/o/oauth2/=offline like this. just copy this url and paste on browser and login into your google account. that's it. you'll see 'The authentication flow has completed. You may close this window' this massage. then you're done.
+### 9.
+You'll find a url https://accounts.google.com/o/oauth2/=offline like this. just copy this url and paste on browser and login into your google account. that's it. you'll see 'The authentication flow has completed. You may close this window' this massage. then you're done.
 
 ### 5. you have to give storage permission to termux. for that use this command.
 
