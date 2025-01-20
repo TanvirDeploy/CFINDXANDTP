@@ -53,6 +53,10 @@ python3 generate_drive_token.py
 ### 9.
 You'll find a url https://accounts.google.com/o/oauth2/=offline like this. just copy this url and paste on browser and login into your google account. that's it. you'll see 'The authentication flow has completed. You may close this window' this massage. then you're done.
 
+### 10. Boom 💥!
+
+goto your phone memory CFINDXANDTP folder. you'll find token.pickle there.
+
 ### 5. you have to give storage permission to termux. for that use this command.
 
 ```
@@ -95,7 +99,7 @@ cp -r token.pickle /sdcard
 
 ### 13. Boom 💥!
 
-goto your sdcard (phone memory) you'll find token.pickle there.
+goto your phone memory CFINDXANDTP folder. you'll find token.pickle there.
 
 We're Done.
 
