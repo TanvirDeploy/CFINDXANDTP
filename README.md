@@ -10,12 +10,10 @@ apt update && apt upgrade -y && pkg install git -y && pkg install python -y && a
 ```
 ## 2.1 ```ERROR: Installing pip is forbidden, this will break the python-pip package (termux)```
 
-
+If you get this error, you need to run the following command:
 ```
 curl -sS https://bootstrap.pypa.io/get-pip.py | python
 ```
-
-If you get this error, you need to run the following command:
 Now run command number 2 again. Hopefully no error will appear.
 
 ### 3.
