@@ -57,6 +57,13 @@ You'll find a url https://accounts.google.com/o/oauth2/=offline like this. just 
 
 goto your phone memory CFINDXANDTP folder. you'll find token.pickle there.
 
+### 3. Now Run.
+
+```
+python3 unlock_token.py
+```
+r
+
 ### 5. you have to give storage permission to termux. for that use this command.
 
 ```
