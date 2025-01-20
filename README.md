@@ -23,6 +23,12 @@ termux-setup-storage
 ```
 Note: If the storage command in Termux does not work, you can turn on the permission from the settings on app info.
 
+### 4.
+
+```
+cd /sdcard/Tanvir
+```
+
 ### 3.
 
 ```
