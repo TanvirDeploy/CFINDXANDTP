@@ -41,7 +41,7 @@ git clone https://github.com/TanvirDeploy/CFINDXANDTP
 cd CFINDXANDTP
 ```
 
-### 4. make sure Credentials.json file present in your storage folder not in Sd card. if not then just move credentials.json file into the sdcard. Not in any folder.
+### 7. Now a folder named CFINDXANDTP has been automatically created inside the Tanvir folder. make sure Credentials.json file present in your phone memory /Tanvir/CFINDXANDTP folder, not in Sd card, if not then just move credentials.json file into the CFINDXANDTP folder . Not use sdcard
 
 ### 5. you have to give storage permission to termux. for that use this command.
 
