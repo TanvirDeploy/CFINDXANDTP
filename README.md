@@ -33,7 +33,7 @@ Note: Make sure Save a folder named 'Tanvir' in your phone memory.
 ### 5.
 
 ```
-git clone https://github.com/Tanvir826847826/CFINDXANDTP
+https://github.com/TanvirDeploy/CFINDXANDTP
 ```
 ### 9.
 
