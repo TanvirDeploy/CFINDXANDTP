@@ -57,12 +57,14 @@ You'll find a url https://accounts.google.com/o/oauth2/=offline like this. just 
 
 goto your phone memory CFINDXANDTP folder. you'll find token.pickle there.
 
-### 3. Now Run.
+### 11. Now Run,
 
 ```
 python3 unlock_token.py
 ```
-r
+You can see your Client id, Client secret, Refresh token.
+
+You can now easily run Cloudflare Bhadoo Index using client id, client secret, refresh token.
 
 ### 5. you have to give storage permission to termux. for that use this command.
 
