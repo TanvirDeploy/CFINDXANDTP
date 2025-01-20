@@ -5,7 +5,7 @@
 ### 2. Open Termux and just copy paste all the commands that described below, Make sure you have internet connection. if you see Y/n then Type y.
 
 ```
-sudo apt update && sudo apt upgrade -y && sudo apt install git python3 python3-pip -y && sudo apt upgrade python3 -y && python3 -m pip install --upgrade pip && pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib
+apt update && apt upgrade -y && pkg install git -y && pkg install python -y && apt update && pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib && pip install --upgrade pip
 
 ```
 
