@@ -16,6 +16,11 @@ curl -sS https://bootstrap.pypa.io/get-pip.py | python
 ```
 Now run command number 2 again. Hopefully no error will appear.
 
+### 5. you have to give storage permission to termux. for that use this command.
+
+```
+termux-setup-storage
+```
 ### 3.
 
 ```
