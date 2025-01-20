@@ -33,7 +33,7 @@ Note: Make sure Save a folder named 'Tanvir' in your phone memory.
 ### 5.
 
 ```
-git clone https://github.com/FollowNaim/TokenPickle
+git clone https://github.com/Tanvir826847826/CFINDXANDTP
 ```
 
 ### 4. make sure Credentials.json file present in your storage folder not in Sd card. if not then just move credentials.json file into the sdcard. Not in any folder.
