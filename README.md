@@ -21,6 +21,8 @@ Now run command number 2 again. Hopefully no error will appear.
 ```
 termux-setup-storage
 ```
+Note: If the storage command in Termux does not work, you can turn on the permission from the settings on app info.
+
 ### 3.
 
 ```
