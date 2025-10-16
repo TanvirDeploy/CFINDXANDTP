@@ -5,7 +5,8 @@ from google_auth_oauthlib.flow import InstalledAppFlow
 
 credentials = None
 __G_DRIVE_TOKEN_FILE = "token.pickle"
-__OAUTH_SCOPE = ["https://www.googleapis.com/auth/drive"]
+__OAUTH_SCOPE = ["https://www.googleapis.com/auth/drive",
+                "https://www.googleapis.com/auth/youtube"]
 if os.path.exists(__G_DRIVE_TOKEN_FILE):
     with open(__G_DRIVE_TOKEN_FILE, "rb") as f:
         credentials = pickle.load(f)
