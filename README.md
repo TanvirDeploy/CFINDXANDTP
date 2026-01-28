@@ -5,7 +5,7 @@
 ### 2. Open Termux and just copy paste all the commands that described below, Make sure you have internet connection. if you see Y/n then Type y.
 
 ```
-apt update && apt upgrade -y && pkg install git -y && pkg install python -y && apt update && pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib && pip install --upgrade pip
+apt update && apt upgrade -y && pkg install -y git python python-cryptography && pip install --upgrade pip
 
 ```
 ## 2.1 ```ERROR: Installing pip is forbidden, this will break the python-pip package (termux)```
