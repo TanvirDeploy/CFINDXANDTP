@@ -58,7 +58,7 @@ Now a folder named CFINDXANDTP has been automatically created inside the Tanvir 
 ### 8.
 
 ```
-python3 generate_drive_token.py
+python3 YouTube_Upload_And_generate_drive_token.py
 ```
 
 ### 9.
