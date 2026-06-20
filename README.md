@@ -85,3 +85,5 @@ We're Done.
 # Credits...
 
 [`Anasty17`](https://github.com/anasty17)
+
+By completing the steps shown in these two videos, you won't have to wait for an admin's Google Drive or Rclone configuration in any Mirror-Leech group. Simply add these files, and everything will be ready to use with your own Google Drive and Rclone setup.
